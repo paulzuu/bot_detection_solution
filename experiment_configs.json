@@ -1,0 +1,78 @@
+[
+  {
+    "name": "quickstart_rf",
+    "kind": "rf",
+    "feature_set": "baseline"
+  },
+  {
+    "name": "hist_full",
+    "kind": "hist"
+  },
+  {
+    "name": "cat_original_d4",
+    "depth": 4,
+    "feature_set": "original"
+  },
+  {
+    "name": "cat_original_d6",
+    "depth": 6,
+    "feature_set": "original"
+  },
+  {
+    "name": "cat_original_d7",
+    "depth": 7,
+    "feature_set": "original"
+  },
+  {
+    "name": "cat_original_no_client",
+    "depth": 6,
+    "feature_set": "original_no_client"
+  },
+  {
+    "name": "cat_extended_d6",
+    "depth": 6
+  },
+  {
+    "name": "cat_extended_no_client",
+    "depth": 6,
+    "feature_set": "no_client"
+  },
+  {
+    "name": "cat_extended_weight3",
+    "depth": 6,
+    "positive_weight": 3
+  },
+  {
+    "name": "cat_extended_d4",
+    "depth": 4
+  },
+  {
+    "name": "cat_no_timing",
+    "depth": 6,
+    "feature_set": "no_timing"
+  },
+  {
+    "name": "cat_original_seed137",
+    "feature_set": "original",
+    "depth": 6,
+    "seed": 137
+  },
+  {
+    "name": "cat_original_seed2026",
+    "feature_set": "original",
+    "depth": 6,
+    "seed": 2026
+  },
+  {
+    "name": "cat_behavior_seed137",
+    "feature_set": "no_client",
+    "depth": 6,
+    "seed": 137
+  },
+  {
+    "name": "cat_behavior_seed2026",
+    "feature_set": "no_client",
+    "depth": 6,
+    "seed": 2026
+  }
+]

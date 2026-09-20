@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14",
+  "executed_code_cells": 13,
+  "notebook_errors": 0,
+  "submission_rows": 4909,
+  "reproduced_submission_sha256": "ba5aab69e8d259a89bf6080f737b46999b1fae1bd1925b6cd14c7857fb77327b",
+  "submission_matches_independent_run": true,
+  "source_data_unchanged": true,
+  "official_metric_unchanged": true,
+  "unit_tests_passed": 7,
+  "full_notebook_runtime_seconds": 306.4
+}

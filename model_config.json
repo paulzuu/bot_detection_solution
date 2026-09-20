@@ -1,0 +1,8 @@
+{
+  "name": "cat_extended_no_client",
+  "kind": "catboost",
+  "feature_set": "no_client",
+  "depth": 6,
+  "iterations": 800,
+  "seed": 42
+}
